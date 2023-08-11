@@ -1,8 +1,8 @@
 # How to run the app
 
-## Download repo
+### 1.  Download repo
 
-### `npm install` while in directory of the project
+### 2. `npm install` while in directory of the project
 
-### `npm start`
+### 3. `npm start`
 
